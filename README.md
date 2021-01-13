@@ -1,16 +1,27 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=coder13&theme=material-palenight&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder13&layout=compact&theme=material-palenight&langs_count=6" />
+</a>
 
-<!--
-**coder13/coder13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me
 
-Here are some ideas to get you started:
+I'm Caleb Hoover. I write websites and stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been coding since mid 2010 and have dabbled in dotnet, java game dev, and websites. I've mainly been focusing on websites and have been since 2014. 
+
+I have an active interest of writing code for people and myself in the form of scripts and websites. I like taking parts of my life and automating them.
+
+My big fascination right now is writing websites for my niche hobby of [cubing](https://www.worldcubeassociation.org/). 
+
+## Letscube
+
+My biggest website is [letscube](https://github.com/coder13/letscube) which hosts almost 4000 registered users. This platform connects [cubers](https://www.worldcubeassociation.org/) together and lets them race eachoher solving rubik's cubes.
+
+## Funfacts
+
+ - My language of choice is javacript
+ - My database of choice is mongodb
+ - The fastest I've solved a rubik's cubes in 6.34 seconds
+ - Electronic music is my favorite genre
