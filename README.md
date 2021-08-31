@@ -19,6 +19,10 @@ My big fascination right now is writing websites for my niche hobby of [cubing](
 
 My biggest website is [letscube](https://github.com/coder13/letscube) which hosts almost 5000 registered users. This platform connects [cubers](https://www.worldcubeassociation.org/) together and lets them race eachoher solving rubik's cubes.
 
+## Career Hunting
+
+I'm graduating in March of 2022 and am actively looking for employment after graduation. I'm open to anything software related leaning towards web development.
+
 ## Funfacts
 
  - My language of choice is javacript
