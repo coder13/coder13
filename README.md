@@ -25,7 +25,7 @@ I'm graduating in March of 2022 and am actively looking for employment after gra
 
 ## Funfacts
 
- - My language of choice is javacript
- - My database of choice is mongodb
+ - My language of choice is Javascript
+ - My database of choice is MongoDB and MySQL when applicable
  - The fastest I've solved a rubik's cubes in 6.34 seconds
- - Electronic music is my favorite genre
+ - Electronic music is my favorite music genre
