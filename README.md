@@ -21,7 +21,7 @@ My biggest website is [letscube](https://github.com/coder13/letscube) which host
 
 ## Career Hunting
 
-I'm graduating in March of 2022 and am actively looking for employment after graduation. I'm open to anything software related leaning towards web development.
+I'm graduating in March of 2022 and am currently set to being employment at [Circle Financial Services](https://www.circle.com/en/).
 
 ## Funfacts
 
