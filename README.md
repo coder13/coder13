@@ -19,10 +19,6 @@ My big fascination right now is writing websites for my niche hobby of [cubing](
 
 My biggest website is [letscube](https://github.com/coder13/letscube) which hosts almost 5000 registered users. This platform connects [cubers](https://www.worldcubeassociation.org/) together and lets them race eachoher solving rubik's cubes.
 
-## Career Hunting
-
-I'm graduating in March of 2022 and am currently set to being employment at [Circle Financial Services](https://www.circle.com/en/).
-
 ## Funfacts
 
  - My language of choice is Javascript
