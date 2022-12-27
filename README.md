@@ -8,7 +8,7 @@
 
 ## Me
 
-I'm Caleb Hoover. I make cool software.
+I'm Cailyn Hoover. I make cool software.
 
 I've been coding since mid 2010 and have dabbled in dotnet, java game dev, and websites. I've mainly been focusing on websites and have been since 2014. 
 
