@@ -15,6 +15,9 @@ I've been coding since mid 2010 and have dabbled in dotnet, java game dev, and w
 I have an enthusiastic interest in writing code for people and myself. I like taking parts of my life and automating them.
 
 My big fascination right now is writing websites for my niche hobby of [cubing](https://www.worldcubeassociation.org/). 
+
+You may have heard of [letscube](https://github.com/coder13/letscube), a webapp that connects cubers together to race in real time powered by nodejs, websockets, and react.
+
 I run WCA competitions. I have developed various tools for managing them:
 - [Delegate-Dashboard](https://github.com/coder13/delegateDashboard): WCA Competition Groups Management Tool
 - [Competitor-Groups](https://github.com/coder13/Competitor-groups): WCA Competition Groups Viewing Tool
