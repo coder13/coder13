@@ -25,14 +25,15 @@ I run WCA competitions. I have developed various tools for managing them:
 
 I'm hapily employed at [Circle](https://www.circle.com/en/). Come work for us!
 
-## Letscube
+## Software
 
-My biggest website is [letscube](https://github.com/coder13/letscube) which hosts over 8000 registered users. This platform connects [cubers](https://www.worldcubeassociation.org/) together and lets them race eachoher solving rubik's cubes.
+- My most used website is [CompetitionGroups.com](https://www.competitiongroups.com/) providing competitors of WCA-sanctioned competitions view of personal schedules and event information used by over 100,000 competitors and attendees across the world.
+- My proudest website is [letscube](https://github.com/coder13/letscube) which hosts over 10,000 registered users. This platform connects [cubers](https://www.worldcubeassociation.org/) together and connecting Rubik's cube solvers with the ability to race in real time
 
 ## Funfacts
 
  - My language of choice is Javascript
- - The fastest I've solved a rubik's cube is 6.34 seconds
- - I've been to 50+ WCA Sanctioned competitions putting on almost half of them
+ - The fastest I've solved a rubik's cube is 6.19 seconds
+ - I've been to 100+ WCA Sanctioned competitions putting on almost half of them
  - I'm also the lead delegate for the PNW
  - Electronic music is my favorite music genre
