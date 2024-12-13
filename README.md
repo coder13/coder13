@@ -36,4 +36,3 @@ I'm hapily employed at [Circle](https://www.circle.com/en/). Come work for us!
  - The fastest I've solved a rubik's cube is 6.19 seconds
  - I've been to 100+ WCA Sanctioned competitions putting on almost half of them
  - I'm also the lead delegate for the PNW
- - Electronic music is my favorite music genre
